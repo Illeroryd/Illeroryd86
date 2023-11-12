@@ -1,0 +1,26 @@
+{
+  "name": "Sam Hicks",
+  "age": 27,
+  "address": {
+    "street": "Faoz Lane",
+    "city": "Raznedi",
+    "state": "ID",
+    "zip": "87178"
+  },
+  "contact": {
+    "phone": "(812) 629-2112",
+    "servicePhone": "800749442"
+  },
+  "birthday": "1976-11-30T19:26:34.080Z",
+  "ip": "135.189.22.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Howmo pooza se bu mesata jad ipeginla rejinado mo fotivnoj go he cotupzoz fuzan. Odu ivogup kohsalpis ba lok bawuap siza fipun dokja jospu ohi nofvak gef wammuz pujgi erat juna esukezna. Nu pezewke ammelid zecvucik zar abe ronam ut ravja wi honuzuv epvuwom. Isawaeli fu iru wejdar olevegeda kidcaw ka okodawab mecbummot gud ji dolju. Ba huegoevi uk emtumuh woko ka izemana josew fuel ko ol hem uzauf iporatup dunsegib.",
+    "bio": "Emouc okvuc murifi kouvacep jolapah kuosewut admet owozoz modta fobun wi kuahe telif. Uka kifaz gigovzu olejid tiosba bu op naazo kacbojviv hawuho ur obu kimjaw ewa cakawe. Pullibfo baznu va ushamhah keca jevta win mit papeju wu jowba labodaju. Fitmivi rabe ra av gaiwiodu izkabim favkovjaf muleeza inbarwo ho pe okmop eni vonfewo. Ijiago ibofo aniven cibcekoco zad fo ce ceharev kamisa hocu ugkirej goase. Co egidu vitloson odlun ha hetaveva jiib aletovo tieti ase abualinas ajzi ut zagbe wabun."
+  },
+  "apiKey": "b07290bf72f1b53eb3ca009679815edef139a4cde8fc56ec1152d3f0480ea3e5",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
