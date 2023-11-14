@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Fisher",
+  "age": 34,
+  "address": {
+    "street": "Woguja View",
+    "city": "Zubova",
+    "state": "ND",
+    "zip": "85868"
+  },
+  "contact": {
+    "phone": "(688) 529-9706",
+    "servicePhone": "800524671"
+  },
+  "birthday": "1997-09-18T18:08:46.369Z",
+  "ip": "232.233.48.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ab lumuri kadu asakuh geivapu owhum aluje dijbe awiko tet asoeku jaovi vuszuv tounja we jibecodog kob. Hurdevduf bim bojoemi necrohbog gah wumsid vun si cu vorecaelo ase dotdas amiam. Pebbubu pengofi oksiri ke gik duebu mine lilahi notlar mufi mevub sir god vathojco ika libuz natehjud. Coopuhad mawisu mo ketebhu ca el lonsuvuh davawpu sejimunes nav uricatko wadati riviuv fosre bojadmor uc tifzimvo.",
+    "bio": "Ruvhoce gisina hoz fajigji kabulku koc keofa la li odiwopat ucituvopi ji nap. Kolij si ero upjivuf fovta fo agimuf avhe raguhsi heoz uduegeume ewinapabe buiz cawi nafo. Zurhuofe ba guzlev uv bajzikle luhjob jufa bodu sawirhu opsi ralilpiw ja uc rabwoahi bocasic kasal wiijwu. Cattefem riuvujo jurvuv jorevi tiv iku ez hu dotivibip putacpi ihma dutcaeka. Silnegim esolerak cog kan rieci seh docon buvegfi obumiga detitlu fitsirvut zecikbih. Hi su nez uh mehud suaw vep na figborlik dekud azo witpufa wic daci dolzatpav jili."
+  },
+  "apiKey": "aaccd42a12f5dbd41047fe598ebfd4a4200c4cda392b7cb64ecbe6768f61d8bc",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
