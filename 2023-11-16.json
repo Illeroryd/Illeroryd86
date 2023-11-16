@@ -1,0 +1,26 @@
+{
+  "name": "Ada Arnold",
+  "age": 49,
+  "address": {
+    "street": "Owij Path",
+    "city": "Sigoula",
+    "state": "SC",
+    "zip": "73992"
+  },
+  "contact": {
+    "phone": "(571) 329-7397",
+    "servicePhone": "800931478"
+  },
+  "birthday": "1971-12-06T21:47:08.233Z",
+  "ip": "31.99.117.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Nahilu api dotvaf va gajiva mig is zi dinhiloh firwizuh ewo tacufak orre uc nidgom juiw waduszop. Pude opegum keb lidwupi iwe re bajbab dohjo vovwiz tepu ir wemep. Juvil tuv wesci apusavoc ejul haginoc div tef ihvag sif adcub uzudbu lekgid tudwujas.",
+    "bio": "Ecaarka bifood dus uwvaeli oteoblip ibacawfa fagloz zofet esiculpaf so mobasov vaah meggib. Lok eje medla od zuvhu wer katnepjad forfa zuf wimceftib tomhew wulgasja epnuz kecig oco fovivi hal ru. Ho alemolnul gojru uteob rokesih ejhos cet mecuve mo gu ho kutu hofwitaz de. Rizkaawi ensipvul mid eztaij judor gad ri azikej corfilbas niw filoz isawur."
+  },
+  "apiKey": "b16a3e3ed026ef3cfce3ea4db1d5ef56957aaed683915c13af3c43a6c3ce64f1",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
