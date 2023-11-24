@@ -1,0 +1,26 @@
+{
+  "name": "Lina Johnson",
+  "age": 21,
+  "address": {
+    "street": "Nakda Circle",
+    "city": "Dubgapgas",
+    "state": "IL",
+    "zip": "21425"
+  },
+  "contact": {
+    "phone": "(462) 680-7124",
+    "servicePhone": "800279547"
+  },
+  "birthday": "1993-02-22T15:52:49.128Z",
+  "ip": "92.154.145.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Vum woliv sinebi mop vujpofrec porehu jif apukadot ibsa ep ufweege vimcuzdu zidlooce. Osifor cuahuti bejvidon fu lokefi lej dilo awdo orimaho du afiri wuhepcu. Efula hije ten futnawbi oki piecjat ofohika palcib rizezbew lego tu lejfe jeul bapo.",
+    "bio": "Uboaw ha enetokem kotbi wubdi jukuwaov imilebuku zisef uso olasonem ze kiwohasel. Heh genpe oconwot ca bun pevinem poftaz zibpuji vaufa hov opotogi tifilod leel gadfamobo kahano. Va kuz huep nole wuad negluli zopog dazdaha kalecuile gituha rejoep etfeig guam zutor ire. Pal sazjufi bonic ojilog cibioj ci awvihjuv onro mocfiur vu kuj ri le co cima."
+  },
+  "apiKey": "087f14e8f128a13be79f40b668972239c49acca00206681e1be2aabffae6712f",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
