@@ -1,0 +1,26 @@
+{
+  "name": "Leon Flowers",
+  "age": 35,
+  "address": {
+    "street": "Dichit Plaza",
+    "city": "Ceguav",
+    "state": "PA",
+    "zip": "99202"
+  },
+  "contact": {
+    "phone": "(241) 710-3095",
+    "servicePhone": "800894216"
+  },
+  "birthday": "1996-05-26T14:31:30.127Z",
+  "ip": "185.30.187.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozoelahe miwize coclu meborku adeup ikpok hij porejzo sagsin epgovepi bepo mo. Mizvu nudbekbe hojodo ok le ewritu bobjuvup itaec neivair lasufo tuzo guzsilgu opogug wag. Lemneka ful gomofdi vaz decmewil sup uzo nut cib rebgon ijno lodcuw zifar bimovara ovga vugcikul vuttulup.",
+    "bio": "Bu ce kusa so juzub ro pa ci edsijan migopor ju downucces sambas as wodtaj dartuv coruro duso. Ajvumu go ava kijcitki pi jowi kohkeik hugu bupluv zipwojet gabar rof ucsup fub intop facluel lofo. Jud od tajpacir magwiz dagto hifiwfe soj edido wippev kolzilfit bugujeb doul dijraiv etosujel ihuav okok malciuco."
+  },
+  "apiKey": "2f547b555316ac2118e3fab1ea540768fe2107d3799e1885c3e6c33696fecd0f",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
