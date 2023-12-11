@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie King",
+  "age": 33,
+  "address": {
+    "street": "Karse Heights",
+    "city": "Atiabwum",
+    "state": "UT",
+    "zip": "49985"
+  },
+  "contact": {
+    "phone": "(300) 247-1849",
+    "servicePhone": "800321513"
+  },
+  "birthday": "1980-11-24T16:01:27.841Z",
+  "ip": "103.186.24.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Te ewbaguta ofe so al rajworah lowoiz nomwees hehezej lefpuz kerewe ad mowsunul hivnunfa dudcuf. Hithijiv ga wiblos golu ponugbo orsi caljo etjadra ucdimusi omazef we amhubhod cazvewur jenan tid vodwoted. Julvomme telaw anecib te daweczup avaweut geolo juz pehnokmeg be leha erci tijotim eh kazulco okiroh.",
+    "bio": "Eni wuput cifjahgal sozvo rog ezwir usujizas ciz hic ted onukagafu kodren latul luelka satbu. Bozab dojkumaj fidne zuvkugu kenar ozpihib imemumam tiles ku rabomeja ifeore ehfudgec pe acubi eb kipad kuwav alve. Ez wojafpav deicako luugumif pez vu pe rajuftil bil uj borut or mi jubacpeg pota wuv. Ubu kikur obimed pehunibo vuge le puduk pabzib ogwokej wa rup akfihap wemimi jo uj hercihse picadrad horzumaz. Ut fovucejo nompodped tonuvze uragom tam akuvugu zobelmu anoduvele hoge zoujurac wufsas jabfi ju soc."
+  },
+  "apiKey": "10b11875f87d792760323759ddb9b183fbce2cf7b8c6d1c2d933b40db5f98701",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
