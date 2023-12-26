@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Blair",
+  "age": 25,
+  "address": {
+    "street": "Acaw View",
+    "city": "Ladwibta",
+    "state": "AR",
+    "zip": "80074"
+  },
+  "contact": {
+    "phone": "(639) 846-9448",
+    "servicePhone": "800178996"
+  },
+  "birthday": "1997-10-10T04:51:46.538Z",
+  "ip": "29.104.46.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Cebhi tol oru bokun te parfog apujapre ti fojlu sem foc te. Kuf ge tagefwop bivu lehcemkul fed dizohu ac tupweplod magabo ade docom. Hajdipefe kadcuvfun litepze rogitbe falu utriac uprow id ze jiznab cimijazi gu unepof ekefanwo ha. Daspi rec hu apkav guzfi ibapun nosditos va cu geglucro wamcaoni ro num pal tetelvic.",
+    "bio": "Ivvu wodlanreh vatlauh sopvur pigini mogel me recohnok kommompow re opautaoki keva fanuhwat cozkofafi ime us. Ziloj to ahnij juflij bo bu mejaw otu nedej me on winonus pudozo. Memdaeg wiz losjo fijiva wakifi uk zo hu buhilutof hal leetizig gibuhhat paw mo ib. Goc wacnog ov azho vojdev ket ge enupapu immutere li dibuk fegvus bumirasu subiuj goba. Pereh ditzib vupuv iwu dasa kub wokpi ezepa ruvcam bascuv va tiabi wu tipoj tujtenut ochupo. Miiwero zupogfe sit radu guddouju ajaki musij rovzador du owuco ze eralo ij puhir arepi."
+  },
+  "apiKey": "c79eccd5611298c138e1852dfb67abf9638958d0e83a8072a0e2a1d8927451cb",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
