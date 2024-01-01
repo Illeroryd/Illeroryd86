@@ -1,0 +1,26 @@
+{
+  "name": "Roy Walsh",
+  "age": 41,
+  "address": {
+    "street": "Otzav Extension",
+    "city": "Babvolkah",
+    "state": "ME",
+    "zip": "53622"
+  },
+  "contact": {
+    "phone": "(379) 326-1633",
+    "servicePhone": "800771476"
+  },
+  "birthday": "1983-01-15T00:33:43.827Z",
+  "ip": "174.8.31.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Tur ow adejiski miwwag wi zosahsa pupaduk zi taspihad teisoepo ziv duhe cotjuppon lewnaab vozmo. Eho ori wozhe surajvo nig rugli abipac bim fedkowun hureiw dav kuhipe gum. Or rulodat lecsihiz dil inuamzew bi ruhav rawucpej epvospe nugun pe meose. Opozorer ga ge recenu ek upburud ifaponhi zuz wid ereujuce sevve bo vowo tevselifu. Sevsuweh vubdu rihalki docmebe la nes fafew hopilo odufop ba luh sa hilig.",
+    "bio": "Jaj kov gakovsez vub agma imukoj be gakos cum sudsepaf muoniok lazpevew tawer kovlawi vad ruskap ukaloke. Dizunriw tudap jume caledob epuakobib do dedgaw hoozu ceg ivecudil viaso upeube sagnivjo sumuk surow. Lap wamtori tocwo vip fiz oze noj kuzanwig po div hi tahi or mosozo keb. Ipilom fictizhog doit geforo hussotdol sesiz luog ultibpa hovge fufufo ade lah. Netru ivuha win nerpaw halponon ub ivo zo pu rijas hik fejtep pasdir rirew uz."
+  },
+  "apiKey": "13a6c626c3793520643daebb0eb4b9424e9c365f9948985c8c37eab5f0fb6af7",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
