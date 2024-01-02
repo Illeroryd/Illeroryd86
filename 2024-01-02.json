@@ -1,0 +1,26 @@
+{
+  "name": "Eleanor Ward",
+  "age": 64,
+  "address": {
+    "street": "Bese View",
+    "city": "Mazoczuf",
+    "state": "MS",
+    "zip": "88286"
+  },
+  "contact": {
+    "phone": "(587) 685-1542",
+    "servicePhone": "800839748"
+  },
+  "birthday": "1980-12-06T17:45:32.633Z",
+  "ip": "67.238.16.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo dujelfi os sisru haftejoje ge ca nal lo es ubla diher huho nuagga upkumfu. Opo pi zulesus hikalek fehsoim jigne kuwpipmo feew so vakuchon daiz cujafuj. Su bobheh iwu buc je aseli datifokep kitlerdu konfuve mabilof nafogizu fovuvup es pe.",
+    "bio": "Ocomugjew puglo dimacusa rohzivoc gug bikrewel normumbat elbucaj susenab ile eho wivoziwe amo. Oc wopunawe sov dibez cefazil wu agbodhan mig ubujuziv tupu napofma kuluos iraju depzel eji. Wihpuk hom pizjuven lunmi nelnedla zugo fih ro falovsu acaukuc do lewkoj zuw cidauz givejac fi nunnaot ujgebuhe. Ta agunim gopucfi pa homva bimo sek jimzapuc gaji biwkon edopurpet se runfidgaw zij wuhku wetashe uhu pifulem."
+  },
+  "apiKey": "8126340fdd9a599b51e130cf25ab703d18a488bf97399ac1e7cfbebd43b27d98",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
