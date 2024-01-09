@@ -1,0 +1,26 @@
+{
+  "name": "William Gibbs",
+  "age": 52,
+  "address": {
+    "street": "Toma Glen",
+    "city": "Narejud",
+    "state": "CT",
+    "zip": "95417"
+  },
+  "contact": {
+    "phone": "(984) 337-5087",
+    "servicePhone": "800337152"
+  },
+  "birthday": "1961-03-04T08:14:33.330Z",
+  "ip": "10.89.252.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Cabpa da debi bualtih iho wuido sol ikufarsil hijupuev nas ak nu eh baddohuf onewe bu lulik buhce. Zojaki zirjid teetuaju viwicuvus favzu gekolaga ritoiz efa ru bi kule wojez irobeuhi. Reszaksig fukhor ca duhohe zimu buwdi lemjazu higec suwsenu tunu akabu efeje leku huto citog.",
+    "bio": "Bori wi raofo ur ezhav jozko cud pelbogdu ta fatapjol edusootu jocirkum nevonmum coro. Naf owibeovi wophofmoh ra jon kikhopon anaaz depudvo nebweg at geru natuzpi obu lo sulazar. Jaak tekuc uwo bavu nuhikho nad gunpap tepicu af hesmabe taka kikid pajseuga cujo rewe odfuepu kaltuzub. Bimbobhe folokofa hiv mezjeso ofneb pu zi raga pi veh lolso saub cocilso. Ogo dazus hozege dozuwu nivfo gokousi oltebap mi babupbe ni uje we mizrip jabguco. Leicokuf pigmoswi walu ugokeb jev sovka ukupazedu cavnu hiokudu papritzi fet bojil badmazdut sovufep cahigwim pewcar peiguhol. Jiroceba cesni setbuc im gaswav diszab ahavaal nugihira imegami fuwza todra ratot cuvniswab."
+  },
+  "apiKey": "a2451fdec317d8d97fa72b27e728f2fa4905b4f5a7ee29062410710f3084c721",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
