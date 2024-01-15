@@ -1,0 +1,26 @@
+{
+  "name": "Barry Hughes",
+  "age": 24,
+  "address": {
+    "street": "Sabiw Mill",
+    "city": "Gablisa",
+    "state": "TX",
+    "zip": "95887"
+  },
+  "contact": {
+    "phone": "(330) 387-6087",
+    "servicePhone": "800219289"
+  },
+  "birthday": "1977-09-11T08:37:11.267Z",
+  "ip": "225.130.215.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Wem ebami gagolo enwak ughope kekvi harej ihu ca jep nedwiraj fenvokgu ga iparom te hoj akete. Tehzo niwcez jefmiweb riru ferheppis geb sewjo ne halec hupa du jo ob oglacta jagahe. Obu ginu edibo dikfooza ocaet fef wo izuwaw kodudiz vaggu uv efa bo rihtunzev ju gi. Sunu bimco fenzispu muggeoto mef du ni vocagwuh we esedaja kuju tirdaj wa gow koc puatoug lenjog dospu.",
+    "bio": "Herkanam nafigco zadumut uzicu figez vivabfav vedbef mohmunur pafecko cuwig wul dursievo vu vanazub zebracwo. Dal bodkod didev ugselzad gamushag mu copde kawa fun bi husib vowic vimtojaw dejbejbul hudu asoazuejo fagadop. Joko rir roig lekru ifueche oto ewimu tuzef pisoj ozdija lo ifubak jiiwi da."
+  },
+  "apiKey": "ed307891491d244e042244a8fcf5cc3e42a0b546c74a75dcefb1826a50dd92e0",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
