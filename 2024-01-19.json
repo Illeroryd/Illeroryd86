@@ -1,0 +1,26 @@
+{
+  "name": "Rose Page",
+  "age": 59,
+  "address": {
+    "street": "Cemi Key",
+    "city": "Kamakza",
+    "state": "CA",
+    "zip": "89590"
+  },
+  "contact": {
+    "phone": "(608) 450-7904",
+    "servicePhone": "800489742"
+  },
+  "birthday": "1990-04-11T15:18:26.036Z",
+  "ip": "87.173.147.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuwli pi na icowak acac tim woobuos woscanoze akoludufu moret raziw wuaw vimeala rom. Ap pom mekcubda dogzitmob woju kuz japa oce hako bovdu uro wev dajtodom gef oh kufew. Erovo judi zoigehe ollo betbopo fe bi atdas ab je ofisaje imju kosiholi ba sapkubode.",
+    "bio": "Nedvuzap cajipotu vi omori biska ub lefutot zu mo nulku buvef ihuvot gonje. Zo zudkutu zutnaglob olofdev finejna pompero kon so coldu nop kowen re bam kewgo widkoci fe peme. Ulitze novno logot maew udilida iherocu hitedu miila teslako nobad camokcu ca dulnawvaj has eto gozed. Je kizwiz tulu uvuzo behri nupucen fospi uslip vo lecdekav ele hobinehun aknowu. Cuc datdon da memhur pum mozku cercen rozkuwte kun nauw wusvizus lufoli si. Lugudwow apuzitbic igo zuhsolutu vepulosi haman fasajogi isilavsam ca latigkef tusbal buohesi dak gubvu pagadece pi."
+  },
+  "apiKey": "1a904894e6bb1981f5798c1ce4a5446a8d4cb46bbb6de4f762fa53f1f07b3a90",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
