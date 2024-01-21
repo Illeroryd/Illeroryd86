@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Little",
+  "age": 40,
+  "address": {
+    "street": "Nipne Pass",
+    "city": "Utevna",
+    "state": "MD",
+    "zip": "09953"
+  },
+  "contact": {
+    "phone": "(275) 501-6627",
+    "servicePhone": "800678568"
+  },
+  "birthday": "2001-12-30T01:39:31.436Z",
+  "ip": "105.161.205.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Napili sa luavu wuc ere wit vikhak nigza ojzez gisi moffi siid nas mev. Goh dag ovumupat jigaj lu eg bat li lof il ujaluh ezeatruk dulug da hesus. Epgeeje la lub acgugo zugkiopu beuhek lu apomog paj ciwauwi tihikubuh devsobra.",
+    "bio": "Imu maf fagihzut nebeij kuizpab la niplubpo wi pof ehpa riecagot togsus tumkukwab togevwam puirikav rofravbuh fasefan tiz. Ag kuwod nigfawgo bico tadco pombujga cabvoeto cofa kuk otkar nalcirar fe. Wa ca lucihniw zilwi am vorugoogo maebu ce rizguca gazaifi fusis cuzga soruwez ilu. Uci okkub ojevetapa fukohzor iwge kelcebog bote ruvdi omwoih niv kudefud bar ro. Zo fabat ar oj pojipos bocni suto nives cetopow opomoda bun rem tu."
+  },
+  "apiKey": "5a7a744a69ba085c7407c7879f4430305ba92bc01e7e8bc4a12271ed6890dc3a",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
