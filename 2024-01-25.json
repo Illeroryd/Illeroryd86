@@ -1,0 +1,26 @@
+{
+  "name": "Allie Jenkins",
+  "age": 58,
+  "address": {
+    "street": "Inail Street",
+    "city": "Daacomu",
+    "state": "NE",
+    "zip": "78354"
+  },
+  "contact": {
+    "phone": "(522) 904-3397",
+    "servicePhone": "800133536"
+  },
+  "birthday": "1989-06-12T04:50:42.100Z",
+  "ip": "87.185.12.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Beveso seput efwommo niwnec nekij homu kaese muj kuozu mep livif ukaunihah wabol vuuvacap lipizi. Mib ha lusem jahza juwvaez dajak afisojmop movjamo cub uru dawleg ugosohel wit soca kozinmet ibare wuc. Bidzawef jifcu fuojir tivicja hug hof ogge jivnu zurnug paed wekareg pih pe kod sengo kepikuavi luf.",
+    "bio": "Fajsibi echetal vairo boup libmi siatukuk jofpoon of ejbavpa viwkenbaf panuszan oj ahsevtu gisahwem. Dol pacpur wahere bo luvdakma cieso jekvem li hi la atfatbig zuceah kah cumdecvu obatri. Lebemez wowpe wikjebiro foawume fage peudali valsiz zen sev dakli pos zinid."
+  },
+  "apiKey": "efb2df73611cf5fed994cfc1b0140013c2222968af84e5c8c5d67e113fd3151c",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
