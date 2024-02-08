@@ -1,0 +1,26 @@
+{
+  "name": "Howard Garza",
+  "age": 26,
+  "address": {
+    "street": "Cimo Mill",
+    "city": "Zigmesga",
+    "state": "OK",
+    "zip": "43151"
+  },
+  "contact": {
+    "phone": "(233) 781-2224",
+    "servicePhone": "800194889"
+  },
+  "birthday": "1977-10-31T07:16:27.368Z",
+  "ip": "108.29.251.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Kooruj rosu ti ecuil izasiddec mipdir ebjepceb biz cama utevoen kivab relige tegilu ugehi ulbisil fogenpes di. Kicvipla lezisemu viho ojmemfo me adoozgeg wizmin ebka tin wakuj ek uko wuk. Po egfu si dirte ru ka ha fimes lubas nezowro wisokkuf is gosgaku.",
+    "bio": "Nuw roip tepzakpi ji mitu hahuw moguid hahir gi upini uscagmuv rihibo ikuolute berpum kibif bebocor fe. Luvevite hur cazu le zidmaavo wocim asupud zemulit rusfuf vok puk bo ah cintej. Tus ellomo eco as vi nemimva humgevkit pagema iti duzumo ha pil opu. Suznotic fosbum pimizila vet tov ezformi tonret kanizi do ri hekje uw mucozacu mofrarli ralmal mar cebu. Ezibonfaj af pefeleka ba wa usow ginim kir pevnoopi wecehje cu lelefoke muba esu haketedeh gazvod. Pannunu ka lawag siude tebolguv zit ikafizam nouf nis pes lukuupa avaruuni de pege to tomaluw baj. Rihafrab hegoperos hi coj fistikoz kim tikzeza rohne fihmu as reto dap vat."
+  },
+  "apiKey": "f28957f79bd9ab4b0a205c0794ca50e995fe2bef0a2c78604810531783c5c065",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
