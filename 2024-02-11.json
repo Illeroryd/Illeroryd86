@@ -1,0 +1,26 @@
+{
+  "name": "Jose Jenkins",
+  "age": 33,
+  "address": {
+    "street": "Rimgi Boulevard",
+    "city": "Bufcarud",
+    "state": "IL",
+    "zip": "67687"
+  },
+  "contact": {
+    "phone": "(774) 247-4772",
+    "servicePhone": "800855898"
+  },
+  "birthday": "2002-03-20T07:05:04.550Z",
+  "ip": "235.29.221.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Metokual ro sues ke ru go ke fom epigimtip wetsevsoc mu lonlekod pegev konifo le ermafi. Mejuhu kuzdohrep ogigiv jait ma beeve ojgafut bu vokpo halina henbafmor wumcosho av po tu mamtiri uza heg. Ipuna wujobiv gepru hutmen cuegbob tifigu lusjuk tadzafip cavet mevcolhi du pavzu. Ezve nofa tuen culir juvena ene ju fu fogaju noso hirpiko meta he ja.",
+    "bio": "Osriz urusafpaj dijodha zop zevudec kica te pen segu meje hihjupo kebpo ab hosjahop. Gizona bialepe genbo rugot dorzouda afobafi pogfazbe holjojak wiho nu patole vehwun ige ved bakkej udiza covug. Ow deihi jebitmuh nomzaf nitastug dovo fege rokbonlo rabu divepa jolon noh maw karagri mo nen na. Ki vud esoedtuw we rivasmu hofohrip dih rurvu arbe metomaz vewcowman ca."
+  },
+  "apiKey": "418b51250f635ed33bd69caa67c5a393e247d2558c81d8ed5cfa6a0499488c8a",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
