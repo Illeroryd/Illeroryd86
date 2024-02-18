@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Rodriquez",
+  "age": 39,
+  "address": {
+    "street": "Pira Highway",
+    "city": "Lejvauvi",
+    "state": "SC",
+    "zip": "74885"
+  },
+  "contact": {
+    "phone": "(727) 891-8651",
+    "servicePhone": "800157716"
+  },
+  "birthday": "1975-01-26T19:07:14.537Z",
+  "ip": "109.83.41.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Hosiksuh deg nabuc lowil cel bogdo vo ahlabcil pu pof bif birursi va uguufuvi mu zigpeh va. Uvu jolejon wikog opvassah lafnin firebbu jud milone gemiw no aw ral boavjuz wupuj. Daidin rogliha ca devpikfa veb ejniv vafpe satpona tu afebi behafo pim idgin ne fa wodew.",
+    "bio": "Izurur wigisfuh forhec fagiz to gaz valhunir zuju cuz loafate izi ut fu zucokoru. Ma hufkum egoho mutes gi wigmav ju him ziptano kalnodbiw ma tem iciadmu iwu. Leliwuz alema so rurate wir vu wol wulelgo gigosemo ege ketuko giupri muh vaef jepma job. Capbaon takigecik fojejis hogrulra kekajap alo aloatpo ezpo falek wadofo kike rigguap kis zon wir gemfucod ikimo."
+  },
+  "apiKey": "f871c728ac71b8dfb53836a0ce3662eaf45ec8a86350e6ed9bb67cecdfce9e2d",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
