@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Wilkins",
+  "age": 29,
+  "address": {
+    "street": "Fikek Street",
+    "city": "Cizavto",
+    "state": "MT",
+    "zip": "10381"
+  },
+  "contact": {
+    "phone": "(887) 285-7280",
+    "servicePhone": "800778865"
+  },
+  "birthday": "1999-02-02T12:59:52.686Z",
+  "ip": "121.149.104.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Wepunani redevve fapvav adijog la dogzu todedon pag anre nug wu middo. Huuwi melvaj ukpooj titlez di jecgo iksiime wos mede pecoskun ogi pem fotpido. Zof ajetupape tokik ga ci ibojirgi mefnipug vi joahupi awfu reste duvape notalev tub oceotavu vizejrow nuksut. Anubu puzme tuvuhbi ida affinkav sakapbol zu rek reh kuf suphapin li huv sooc kiktukga pupmamul. Wekefaf la ligrodse ceavi si lobuwinu haz cif lezavug emki lehibebo detwidud. Pizpofni henolaze cual co vebcav wekobsi sumisuw dot aka labutu ze beawwan fom oku wino po momwefi nir.",
+    "bio": "Owawiovo cakfokmi wuwjuipe karo alicaob evsowap muokeuru hu igu bo gaj zerbaul to. Rolu jun tat uto ci kom le be gur dupika opaulu cihdihha jibbetez faloru tuer ut nonpam ro. Pimtif cesor do mair naipbin iba riakhif oti if hefpipwar inekelac uvin bu. Uwaw gabel logiv ginol eg guvrih azo jahum sicanop rakaza riez lo ovtosrur laj ces si. Puhohe pucurvo man ogzehnes ko javjeif oni joma odrupca ibuzoni tozkeebu avadu diwo. Tezlosuw muzah ukja tuz af febek muwgu bi pu ca initum putineule jaj. Pi mib zezici pimvab hahijher zuwur vih nemik ut cuw wobahhu el jim wosugagi bec pafucaw huv."
+  },
+  "apiKey": "455fae49ecddb450d6025fb20fba2d813bb812b849e64dc71ff0427c5d14a6c7",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
