@@ -1,0 +1,26 @@
+{
+  "name": "Lou Duncan",
+  "age": 56,
+  "address": {
+    "street": "Ippik Heights",
+    "city": "Kozivaz",
+    "state": "SC",
+    "zip": "27257"
+  },
+  "contact": {
+    "phone": "(216) 205-5645",
+    "servicePhone": "800357462"
+  },
+  "birthday": "1975-06-25T06:58:52.256Z",
+  "ip": "240.113.162.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Tonkuf cicsilet la musid ribafeg eciegiwe nor no wupfuna kicembip ovet sukono ge ru. Joeme goawana pi uziih li ecaucuak bone pih occefe sem hocucsi suhoer otmoom. Tuhu jikulpa akehoheb zugobu laj hidal cupwep hol idrupa ibe gemine baik ahisi ezenvaj ke izcam.",
+    "bio": "Uc judgik zah fu kizdun lapzinje kujab dure ve hapomikaz zimijze zuwsek zikerguc uc awene isa. Jik no be umhiebi ip ufovu jornu zibecwo najzeg ni jefin tiafto kuwkurweb zamnegul ipta awe izrin. De zuwivel ivais ziz ruj vecihuw apoma bi ak cicju jutah dijokog."
+  },
+  "apiKey": "f1620418627ce79c020380bc8e66f00808aeaf8b9fba7a350163fe62c02c7fc5",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
