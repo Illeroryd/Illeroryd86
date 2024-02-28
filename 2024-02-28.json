@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Sanders",
+  "age": 39,
+  "address": {
+    "street": "Rahja Circle",
+    "city": "Amujaze",
+    "state": "MN",
+    "zip": "27013"
+  },
+  "contact": {
+    "phone": "(661) 275-7100",
+    "servicePhone": "800784546"
+  },
+  "birthday": "2001-07-19T01:09:04.513Z",
+  "ip": "155.174.88.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo pehmir zon adu fe cimsojco tifoz nomwoler mazolew hicnu bakbu kiku fowdiito siw. Buepu cuwez hoke ofoleli kirhoiva esoakwa la puv seksu uw pitlojwo nahmopo. Watovhog uni ce codmomej gov efal genbugov uhkupa nebizzuk lahovih wuemumur gonjow iti amfir mifjeusu.",
+    "bio": "Vuoz ancamhos ajguwhot mujot mo nopbij pucog embihe wik isukuhfu lira lahasrog ruljina negomoso laewonon buwebuoj. Escuoz rucuba rozodki nadoc ko oseorusum lu bivucfi tinze piwodwa zov orap fen hidbon tabepiba bulmi. Lutonahu muliku mojfomef bipri zufhe itoso gupko liut otdaid vebu sohit zoni kiz hozesli sipeg."
+  },
+  "apiKey": "5c8369f7905e2d1d89a4f6dafa207d0bca6ebba7c6dde20c6dfaa5699720fd39",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
