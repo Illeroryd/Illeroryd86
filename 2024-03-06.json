@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Hansen",
+  "age": 49,
+  "address": {
+    "street": "Kite Heights",
+    "city": "Bowunfo",
+    "state": "AZ",
+    "zip": "28135"
+  },
+  "contact": {
+    "phone": "(375) 729-9052",
+    "servicePhone": "800797613"
+  },
+  "birthday": "1988-04-07T17:14:00.619Z",
+  "ip": "171.226.26.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo ku meig az ecawoc juwhi gekgas gu ezwumu ajlabzil kaji so imfu vi ehoocave. Pa cinupbu colez puglak esijuoc affin ijokikalu fi zaga wudnah vihecdit is tiroh. Ki mam tuspa igmonve falosufo pugo zoemdec virapup do megosu ef ifcen ger.",
+    "bio": "Ti mun jiesho ogujem boz nisbiro iva muedzir zowevanu sif cokdisan reudiwiw uvca ehacojan. Neize zi zifawu adecijov ji ter rir kagorna zow lece irolulbog raiv cewozwe onzu ge wecof. Jog falkegef wol hep zapec huf came makuhij daccomzeb fohawo niwcooma id jekrah ribpo. Tactaroj peumdu ufu veug pajejjac jelaisu rokip hesarvi tul go joal na irude sij."
+  },
+  "apiKey": "f2678466566515864feda00b3ae50e61dc1e618531a7a31b62f34baa5a9cc100",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
