@@ -1,0 +1,26 @@
+{
+  "name": "John Burns",
+  "age": 29,
+  "address": {
+    "street": "Ekirej Turnpike",
+    "city": "Remuzguz",
+    "state": "CO",
+    "zip": "28857"
+  },
+  "contact": {
+    "phone": "(480) 824-3679",
+    "servicePhone": "800652363"
+  },
+  "birthday": "1979-05-29T02:20:41.293Z",
+  "ip": "122.222.48.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Di il sikadeciz gik biasi mo kotbivfe on fen zo duunauv zi ravdidsa mosuv ma pigpopi vum. Saul apde ejiweec ejnug oma etohucji dukis me adehacsok ivfo dup mihsumsen omloc. Zel deitalo kujfad vejaface hi biwrantas zanuhun taknajam ogu mug itle hujwoona jeh gawcogfe. Juko fi iwo ute zaus nirnod wawevuk jecdopbem fivsidfu opwi ri pub te difvah kawnuvi ked get eme. Dihuf nitoku ta hipkarfo mu wucorule jin rum je suztucpo fo zivzuafi epehi vivohki. Kamalopi pufzuza ro uclivug zuma esali dobna tu hinak cubti la zeptamel ojca div imavbit pof sataf. Geaki kosnejpog kerome goco evece ik kohonu he am muv neh daduz oj bolmefa dal jes jub.",
+    "bio": "Po luol igihupef juluk ropa fulrutah wis nibris zunumfa tun ojuidetu wor wisbuko imi luogu. Napize efomel zipzokla bus ko cenucidu baz vu eh emdo buru cesoiji ucezoduc caep rivwoawo kefono fi. Mucud weref dad tufec az ca fu hotkalur lasowve sahik buwmej niwa furuhet de."
+  },
+  "apiKey": "abc64370ef9b2341f3a5811d867d539c5a9751f7a6ab8434354ffff357f92645",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
