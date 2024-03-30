@@ -1,0 +1,26 @@
+{
+  "name": "Gene Vasquez",
+  "age": 20,
+  "address": {
+    "street": "Sinbu Mill",
+    "city": "Burerve",
+    "state": "CT",
+    "zip": "69537"
+  },
+  "contact": {
+    "phone": "(724) 385-4002",
+    "servicePhone": "800752253"
+  },
+  "birthday": "1995-03-05T05:09:29.865Z",
+  "ip": "49.44.204.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Bolo zo hocupcok mehe rebgoc forodzo wen zem dicozlim ojojik vet uhsuvi ti vajek lu. Cik ekfeneh faci nerdutli bipaghi cuwat lorjew levbe serku lah ca vu bi okoroep. Moegoule so vig de kirpara miphusna ral ab zo co no naufbu wiwa topehni ganmukeg po buhe. Nuwoju nes pedu kufas le diipij ma bi epizogza luhaj ca tob hitaar. Aranaktez pikcir asiet pizi belnir otdukad celtuk kobhib sik jofasbu ja cif fefhu muzup itpe wunjargo.",
+    "bio": "Go nuka jofuci lu vodigedu ucuvuv da jicawba kuaveip weri bu egi moowiave uriof mi. Soerajov kej zabpigab koulezeh ligforle moscejad ribpo eftiz jujdakjew ak zifti upkugo wus ehe uha ocojino. Neju wa mapupha vu hozke bura eke narveb temoz uz ug zuel zudov juzuzesu doreb ezi itsozos."
+  },
+  "apiKey": "d7e45659c822b07a77c5a0dcabc154a8468aec0ac2694d640fe72e77110c16d2",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
