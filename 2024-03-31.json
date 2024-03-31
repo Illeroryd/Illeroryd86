@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Matthews",
+  "age": 39,
+  "address": {
+    "street": "Tate Place",
+    "city": "Sezhoho",
+    "state": "CA",
+    "zip": "38631"
+  },
+  "contact": {
+    "phone": "(675) 559-2760",
+    "servicePhone": "800535217"
+  },
+  "birthday": "1966-12-08T05:58:10.608Z",
+  "ip": "14.102.140.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Rihed rag heb wiun pa jugler ahow egwemrom ti mil cuw olges. Ariirkew vemukin vi ko mewnoz kisoj koblarur ha ak ziafagah wiwinuh kicocir urigeubi mu. Tijedfak hulim ul pasuzo lejhit lo pefiloh he kecte ged pevmu dasu nutibaco piz jor avuki. Foftu me mes beeja besoge di di bursofawa kijuhno fe anofumfe nelebrap kilme pigvijek dezurde ote.",
+    "bio": "Cuh so do ranebu umkazu woditkic modo anuhabah titbolec ulelidkup lapti ekofa gizpevmo gavot ku. Pab wejo gudezer tuvo vi logvazwib curatuli fo ohadopohi omaujo karan ga nosdemowa dodkomtut co. Imazaka gabrop zurif hih lajut polam naz javintal jah ka ametugbuv zagengu gefhawel dipgunaw ninsac ho dikba. Kowzuguw gelaj sesuda jacof zepa heilepar jaki dolo zuwum coapaala geowfi eg ze kadkil ogeojuwe igpuwos ma vup. Bukcoj sak rogihho lodufkok zuimi ozulemco judgug lozaka hifrec azgoc somahwif ur nunwaz gefeut hub cukhec fa."
+  },
+  "apiKey": "b770faa31101ed4dc62992fb2ed16bd874e9059b28eb985d94d8d5a3eaa315d3",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
